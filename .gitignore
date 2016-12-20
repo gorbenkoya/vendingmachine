@@ -1,0 +1,16 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+logs
+project/project
+project/target
+target
+tmp
+.history
+dist
+/.idea
+/*.iml
+/out
+/.idea_modules
+/.classpath
+/.project
+/RUNNING_PID
+/.settings
